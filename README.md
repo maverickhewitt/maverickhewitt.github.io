@@ -1,39 +1,46 @@
-# Hi there, I'm [Your Name]! 👋
-### A [Your Major/Role] based in [Your Location]
+# 👨‍💻 My Portfolio
 
-I am a passionate developer focusing on **[Area 1, e.g., Web Development]** and **[Area 2, e.g., Robotics]**.
+<p align="center">
+  Welcome to my coding playground! Here are my top projects.
+</p>
 
----
+## 🌟 Featured Projects
 
-## 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Project Name 1</h3>
+      <div align="center">
+        <img src="./assets/project1-screenshot.png" width="100%" alt="Project 1" />
+      </div>
+      <p align="center">
+        A web application for managing tasks using AI.
+        <br />
+        <a href="LINK_TO_REPO"><strong>View Code</strong></a> • <a href="LINK_TO_LIVE"><strong>Live Demo</strong></a>
+      </p>
+      <p align="center">
+        <code>React</code> <code>Tailwind</code> <code>Gemini API</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Project Name 2</h3>
+      <div align="center">
+        <img src="./assets/project2-screenshot.png" width="100%" alt="Project 2" />
+      </div>
+      <p align="center">
+        An e-commerce platform for digital goods.
+        <br />
+        <a href="LINK_TO_REPO"><strong>View Code</strong></a> • <a href="LINK_TO_LIVE"><strong>Live Demo</strong></a>
+      </p>
+      <p align="center">
+        <code>Next.js</code> <code>Stripe</code> <code>PostgreSQL</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+## 📈 Activity
 
-## 🚀 Project Showcase
-
-### 🌐 Web Applications
-| Project Name | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **[Project Name A]** | A brief description of what this app does. | ![React](https://img.shields.io/badge/-React-black) ![Supabase](https://img.shields.io/badge/-Supabase-green) | [Repo](#) • [Live](#) |
-| **[Project Name B]** | A brief description of what this app does. | ![Next.js](https://img.shields.io/badge/-Next.js-black) | [Repo](#) • [Live](#) |
-
-### 🤖 Robotics & IoT
-| Project Name | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **[Robot Name]** | Quadruped robot with inverse kinematics. | ![C++](https://img.shields.io/badge/-C++-blue) ![ESP32](https://img.shields.io/badge/-ESP32-red) | [Repo](#) • [Demo Video](#) |
-| **[IoT Device]** | Smart home automation system. | ![Arduino](https://img.shields.io/badge/-Arduino-teal) | [Repo](#) |
-
-### 💼 Ventures & Startups
-| Brand / Company | Role | Description | Link |
-| :--- | :--- | :--- | :--- |
-| **[Company Name]** | Founder | Description of the business. | [Website](#) |
-
----
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=dracula" alt="streak stats" />
+</p>
